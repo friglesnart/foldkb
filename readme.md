@@ -1,3 +1,8 @@
+This is a fork of an older branch of QMK that 100% works with compiling my firmware for the foldkb. This branch is for personal use and when the foldkb project is moved further along in development an official merge into the QMK master branch will be requested. The default hex is currently available in the main directory, and new firmware changes are made with "make" in the foldkb directory.
+
+-friglesnart
+
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
